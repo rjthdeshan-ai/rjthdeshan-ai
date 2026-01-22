@@ -16,7 +16,7 @@
 - **Healthcare Claims Reconciliation System** - Processing 14,000+ patient records and RM188,000+ transactions
 - **Call Center Knowledge Assistant** - AI-powered system using Gemini File Search RAG with Slack integration
 - **End-to-End KNIME Workflows** - Comprehensive patient billing to insurance claims to bank settlement tracking
-- **Master's Applications** - Information Systems & HCI programs in Sweden
+
 
 ---
 
@@ -114,5 +114,6 @@ React Native mobile application for personal credit management
 ![Profile Views](https://komarev.com/ghpvc/?username=rjthdeshan-ai&color=58A6FF&style=flat-square)
 
 </div>
+
 
 
